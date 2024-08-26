@@ -2,7 +2,7 @@
 This App Provides you to experience a range of watches on your wrist without buying them. 
 Watch out for the app!!
 
-#AppFeatures
+# AppFeatures
 
 
 ![1](https://github.com/user-attachments/assets/101a53ff-92ed-4ecf-b5f1-6516a7489dfd)
